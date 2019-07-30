@@ -1,0 +1,18 @@
+{
+  "prod": {
+      "host": "127.0.0.1",
+  },
+  "dev": {
+		"host": "127.0.0.1",
+		"dbuser": "steven",
+		"dbpass": "here",
+		"dbname": "api_medium_kelvin"
+	},
+	
+  "test": {
+		"host": "127.0.0.1",
+		"dbuser": "steven",
+		"dbpass": "here",
+		"dbname": "api_medium_kelvin_test"
+  }
+}
